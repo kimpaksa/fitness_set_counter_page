@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b62eff28.chunk.css",
+    "main.js": "/static/js/main.4d4f6ee2.chunk.js",
+    "main.js.map": "/static/js/main.4d4f6ee2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d5422b6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d5422b6.js.map",
+    "static/js/2.83aad1f1.chunk.js": "/static/js/2.83aad1f1.chunk.js",
+    "static/js/2.83aad1f1.chunk.js.map": "/static/js/2.83aad1f1.chunk.js.map",
+    "static/js/3.82079944.chunk.js": "/static/js/3.82079944.chunk.js",
+    "static/js/3.82079944.chunk.js.map": "/static/js/3.82079944.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b62eff28.chunk.css.map": "/static/css/main.b62eff28.chunk.css.map",
+    "static/js/2.83aad1f1.chunk.js.LICENSE.txt": "/static/js/2.83aad1f1.chunk.js.LICENSE.txt",
+    "static/media/COW.4c8b8149.mp3": "/static/media/COW.4c8b8149.mp3",
+    "static/media/countdown2.9f3f9481.mp3": "/static/media/countdown2.9f3f9481.mp3",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5422b6.js",
+    "static/js/2.83aad1f1.chunk.js",
+    "static/css/main.b62eff28.chunk.css",
+    "static/js/main.4d4f6ee2.chunk.js"
+  ]
+}
